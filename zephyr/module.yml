@@ -1,3 +1,0 @@
-name: swichain
-build:
-  cmake: .
