@@ -1,0 +1,6 @@
+if SHIELD_SWICHAIN
+ 
+config ZMK_KEYBOARD_NAME
+    default "swichain"
+ 
+endif
