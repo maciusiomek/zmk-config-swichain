@@ -8,7 +8,7 @@
 # board: [ "nice_nano" ]
 # shield: [ "corne_left", "corne_right" ]
 include:
-  - board: xiao_ble
+  - board: xiao_ble//zmk
     #   - board: nice_nano
     shield: swichain
 #   - board: nice_nano
